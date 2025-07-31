@@ -1,0 +1,3 @@
+plugins-to-disable:
+  - SomeOtherPlugin
+  - AnotherPlugin

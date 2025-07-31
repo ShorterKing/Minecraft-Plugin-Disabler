@@ -1,0 +1,5 @@
+name: zzzPluginDisabler
+main: com.zzz.plugindisabler.PluginDisabler
+version: 1.0
+load: POSTWORLD
+api-version: 1.20
